@@ -1,0 +1,5 @@
+id,title,description,topic,format,difficulty
+1,Intro to Python,Basics of Python for beginners,Programming,video,beginner
+2,ML Basics,Learn linear regression and classification,Machine Learning,pdf,beginner
+3,Advanced Statistics,Explore hypothesis testing and probability,Math,article,intermediate
+4,NLP 101,Understand tokenization and word embeddings,NLP,video,beginner
